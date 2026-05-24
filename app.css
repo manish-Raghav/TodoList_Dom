@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inp{
+    width: 30rem;
+    height: 1.5rem;
+    border: 2px solid blueviolet;
+    outline: none;
+    border-radius: 5px;
+}
+
+.but{
+   height: 1.8rem;
+   background-color: blueviolet;
+   border: 0px;
+   border-radius: 2px;
+   cursor: pointer;
+   outline: none;
+   color: beige;
+}
+li{
+  margin-bottom: 10px;
+}
+
+button{
+  margin-left: 10px;
+}
